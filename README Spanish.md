@@ -2,8 +2,8 @@
 
 # GENERADOR DE CONTRASEÑAS
 
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Scanner%20Puertos%20Español-000000" alt="Generador Español" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Scanner%20Puertos%20Inglés-green" alt="Generador Inglés" /></a>
+<a href="https://github.com/GabrielLugooo/Ports-Scanner/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Scanner%20Puertos%20Español-000000" alt="Generador Español" /></a>
+<a href="https://github.com/GabrielLugooo/Ports-Scanner" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Scanner%20Puertos%20Inglés-green" alt="Generador Inglés" /></a>
 
 ### Objetivos
 

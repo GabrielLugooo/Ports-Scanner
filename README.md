@@ -2,8 +2,8 @@
 
 # PORT SCANNER
 
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Port%20Scanner-000000" alt="English Scanner" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Port%20Scanner-green" alt="Spanish Scanner" /></a>
+<a href="https://github.com/GabrielLugooo/Ports-Scanner" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Port%20Scanner-000000" alt="English Scanner" /></a>
+<a href="https://github.com/GabrielLugooo/Ports-Scanner/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Port%20Scanner-green" alt="Spanish Scanner" /></a>
 
 ### Objective
 
