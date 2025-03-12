@@ -26,6 +26,16 @@ Esto puede ser útil para evaluaciones de seguridad en redes y pruebas de penetr
 ### Herramientas Usadas
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/socket-000000?logo=socket&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Threading-000000?logo=threading&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/TCP-000000?logo=tcp&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/UDP-000000?logo=udp&logoSize=auto)
+
+- Python
+- Socket library
+- Multi-threading
+- TCP
+- UDP
 
 ### Proyecto
 
