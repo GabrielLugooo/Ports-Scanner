@@ -1,6 +1,6 @@
-<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1744243200&v=beta&t=oXX-ixT9bR3dJcYCLv4KBs5wjKFoeP0524kFGHQMYmQ" alt="gabriellugo" />
+<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1749686400&v=beta&t=hBmszzzG0Zu-m7ZxeCdU5VxgDWqIZuWB0vnrMycuqY4" alt="gabriellugo" />
 
-# GENERADOR DE CONTRASEÑAS
+# ESCANNER DE PUERTOS
 
 <a href="https://github.com/GabrielLugooo/Ports-Scanner/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Scanner%20Puertos%20Español-000000" alt="Generador Español" /></a>
 <a href="https://github.com/GabrielLugooo/Ports-Scanner" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Scanner%20Puertos%20Inglés-green" alt="Generador Inglés" /></a>
